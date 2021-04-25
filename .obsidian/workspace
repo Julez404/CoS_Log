@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "3a7d3762b7d0fb1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c49532eb224d2b5d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Session X - 25.04.2021.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8f73af6c57cc21ca",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Quest - Vermisste Tochter finden.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c326df75327c9f0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4a6336972f7e61f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1be496dad427a4a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6ff3f524e1a76d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37d199a489865f66",
+    "type": "split",
+    "children": [
+      {
+        "id": "7756a37931f07655",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9fa5ec2f429b6cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quest - Vermisste Tochter finden.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8f73af6c57cc21ca",
+  "lastOpenFiles": [
+    "Quest - Vermisste Tochter finden.md",
+    "Session X - 25.04.2021.md",
+    "Quest - Trockene Kehlen.md",
+    "Session x - 11.04.2021.md",
+    "Quest - Bluto ist verschwunden.md",
+    "Vallakische Gesetze.md",
+    "Untitled.md",
+    "Direktorin Claudia Belasto.md",
+    "Ismark.md"
+  ]
+}
