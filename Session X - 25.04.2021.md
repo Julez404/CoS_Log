@@ -43,3 +43,31 @@ Ein anderer Mann gibt im zu wissen, dass er aufhören kann.
 Von [[Luvash]] --> [[Quest - Vermisste Tochter finden]]
 
 Wir gehen zurück nach Vallaki und gehen zum Weißenhaus.
+Wir erlangen Infos für [[Quest - Vermisste Tochter finden]] vonden Kindern.
+Wir gehen zurück zum [[Blue Water Inn]] und [[Danarei]] redet mit [[Danika Martikov]] und möchte von ihr den Ort seines Hauses haben. Sie beschreibt die Position in den Slums im Osten der Stadt.
+
+*Anmerkung:* In der Stadt gibt es verschiedene *Bereiche* Im Osten sibd die Verteile eher Ärmlicher, zentral (Handelsteil) ist es Mittelständig, im Norden wirkt es gehobener.
+
+Wir gehen zu [[Bluto]]s Haus, es wirkt herruntergekommen.
+Die Nachbarain hat ihn vor kurzem gesehen und beschreibt uns das er in Richtung des Sees gegangen ist. Er hatte einen großen Sack bei sich.
+[[Alice]] <-- Nachbarin von [[Bluto]]
+
+Wir sind am See angekommen. 
+Ostufer ist nicht zu erkenne, der See scheint Umrinkt von Bäumen. In mitten des Sees ist [[Bluto]] zu sehen der in seinem Bot angelt.
+
+Er wirft einen Sack ins Wasser, daraufhin ist ein Schrei zu hören. Wir sprinten zu den Booten am Ufer und machen uns auf den Weg zur Mitte des Sees.
+
+Danarei und Lavinia tauchen gemeinsam nach dem Sack der in den Boten geworfen wurde.
+
+Climmba wirft mit Nordexes Seil nach dem Boot und trifft womit er es zu sich Zieht. Lavinia und Danarei befreien [[Arabel]] aus dem Sack und bringen sie an die Oberfläche.
+
+[[Nordex]] und [[Climba]] ringen [[Bluto]] nieder.
+
+[[Lavinia]] stabilisiert [[Arabel]] und drückt ihr das Wasser aus den Lungen.
+--> [[Arabel]] gefunden [[Quest - Vermisste Tochter finden]]
+
+[[Die Lady des Sees]] versprach im reiche Fischernte wenn er Sie opfert.
+
+[[Arabel]] ist verunsichert, selbst wenn wir ihn seinem Vater ausliefern. [[Die Lady des Sees]] scheint das Problem darzustellen --> [[Quest - Lady des Sees]]
+
+[[Bluto]] berichtet das er nur die Stimme der [[Die Lady des Sees]] Gehört hat.
