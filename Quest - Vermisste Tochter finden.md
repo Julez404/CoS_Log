@@ -19,4 +19,24 @@
 	* Sie sind nach Westen gegangen
 * Wir vermuten es ist [[Bluto]] und gehen zu dessen Haus.
 * Zuhause war er nicht aufzufinden, wir gehen zum See im Norden von [[Vallaki]]
-* Wir finden Sie als [[Bluto]] sie als Fischköder verwenden wollte.
+* Wir finden Sie als [[Bluto]] sie als Opfern wollte.
+* Bringen sie zurück
+* [[Daranei]] erzählt [[Luvash]] von den Geschehnissen
+
+[[Luvash]] stellt [[Arrigal]] vor.
+
+## Belohnung
+[[Arrigal]] gibt uns eine Belohnung von einem Gepanzerten Wagen.
+[[Luvash]] lässt uns eine Sache aussuchen:
+* Holztruhe
+* Eisentruhe
+* Schmuckschatulle (Interessantes Material
+* Hölzerner Tron mit eingearbeitetem Gold
+* Eingerollter Teppich
+* Buch mit Ledereinband und Schloss mit Rabensymbol
+
+
+Wir nehmen das Buch, an dieses erinnert er sich nicht daher gibt er uns noch die Schatulle:
+250GM Schatulle -> 6 "Billige"Schmuckstücke je 50 GM
+1x Trank des Gifts --> "In einer vertvollen Kristallfiole" 100GM (75 GM die Fiole)
+1x Gegengift

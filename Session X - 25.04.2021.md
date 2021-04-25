@@ -71,3 +71,42 @@ Climmba wirft mit Nordexes Seil nach dem Boot und trifft womit er es zu sich Zie
 [[Arabel]] ist verunsichert, selbst wenn wir ihn seinem Vater ausliefern. [[Die Lady des Sees]] scheint das Problem darzustellen --> [[Quest - Lady des Sees]]
 
 [[Bluto]] berichtet das er nur die Stimme der [[Die Lady des Sees]] Gehört hat.
+
+Wir gehen mit [[Bluto]] und [[Arabel]] zum Festtani Lager in dem wir zuvor die [[Quest - Vermisste Tochter finden]] aufgenommen haben.
+
+Wir bekommen die Schatulle aus [[Quest - Vermisste Tochter finden]]
+
+[[Arabel]] lässt uns wissen das wir noch vieles interessantes machen werden.
+
+
+---
+
+## Tome of Strahd
+
+
+---
+Wir erkundigen uns nach den Wizards of Wine
+
+## Zu den Wizards of Wine
+Wir brechen auf um die [[Quest - Trockene Kehlen]] zu bearbeiten.
+
+Nähern uns eine Schlucht mit Brücke von ca. 3m tiefe.
+
+
+
+---Encounter mit Spinnen an Brücke---
+
+## Treffen mit Lord Strahd
+Sehen ein dunkles/schwarzes Pferd mit Feuer und Roten Augen.
+Neben dem Pferd steht ein großer schlanker mann mit gepflegter kleidung, eines Aritokraten würdig.
+
+Lange glatte schware Haare.
+
+Lange bleiche Finger die auf Klauen enden.
+Es ist [[Strahd von Zarovich]]
+
+
+--> Thava - Vor 70 Jahren
+
+Climba Erster Messingdrache in Barovia
+

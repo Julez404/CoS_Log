@@ -7,3 +7,4 @@ Der Wein bleibt aus:
 
 **Questgeber:** [[Danika Martikov]] und [[Ervan]]
 **Beschreibung:** 
+**Belohnung: **
