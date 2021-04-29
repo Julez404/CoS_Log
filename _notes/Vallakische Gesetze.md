@@ -1,3 +1,7 @@
+---
+title: Vallakische Gesetze
+---
+
 By order of his Eminence, Baron Vargas Vallakovich, Burgomaster of Vallaki, in order to ensure the continued peace and prosperity of the Great and Joyous town of Vallaki and the security of its fine citizens, all visitors and residents shall comply with these laws in addition to those observed by common custom within the Valley of Barovia:
 
   

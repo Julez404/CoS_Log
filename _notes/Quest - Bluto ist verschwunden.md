@@ -1,4 +1,7 @@
-# Quest - Bluto ist verschwunden
+---
+title: Quest - Bluto ist verschwunden
+---
+
 * Wir suchen Bluto, einen Stammgast des Bluewater Inns.
 
 

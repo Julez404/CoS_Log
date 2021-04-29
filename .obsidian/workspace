@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Atomic Notes.md",
+            "file": "_notes/Quest - Bluto ist verschwunden.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Atomic Notes.md",
+                "file": "_notes/Quest - Bluto ist verschwunden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Atomic Notes.md"
+                "file": "_notes/Quest - Bluto ist verschwunden.md"
               }
             }
           }
@@ -97,15 +97,15 @@
   },
   "active": "2f8ba548394f48a2",
   "lastOpenFiles": [
-    "_notes/Atomic Notes.md",
-    "_notes/Docker.md",
-    "_notes/Einrichtungsscript.md",
-    "_notes/Funk Garagenöffner.md",
-    "_notes/Persönlichkeitsentwicklung.md",
-    "_notes/Sonstiges.md",
-    "_notes/Tech.md",
-    "_notes/Projektideen.md",
+    "_notes/Quest - Bluto ist verschwunden.md",
+    "_notes/Quest - Lady des Sees.md",
+    "_notes/Quest - Trockene Kehlen.md",
+    "_notes/Quest - Vermisste Tochter finden.md",
+    "_notes/Session x - 11.04.2021.md",
+    "_notes/Session X - 25.04.2021.md",
     "_notes/Startseite.md",
-    "_notes/Persönlichkeitsentwicklungs.md"
+    "_notes/Strahd von Zarovich.md",
+    "_notes/Vallakische Gesetze.md",
+    "_notes/Ismark.md"
   ]
 }

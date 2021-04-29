@@ -1,4 +1,7 @@
-# Die Lady des Sees
+---
+title: Die Lady des Sees
+---
+
 **Questgeber:** [[Arabel]]
 Hat uns nach ihrer Rettung von [[Bluto]] gebeten uns um dieses Problem zu kümmern.
 
