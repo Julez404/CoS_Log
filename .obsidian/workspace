@@ -1,26 +1,15 @@
 {
   "main": {
-    "id": "3a7d3762b7d0fb1f",
+    "id": "abbd62f963339544",
     "type": "split",
     "children": [
       {
-        "id": "c49532eb224d2b5d",
+        "id": "2f8ba548394f48a2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session X - 25.04.2021.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "8f73af6c57cc21ca",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Quest - Vermisste Tochter finden.md",
+            "file": "_notes/Atomic Notes.md",
             "mode": "source"
           }
         }
@@ -29,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c326df75327c9f0a",
+    "id": "877d69bdc2954a5a",
     "type": "split",
     "children": [
       {
-        "id": "e4a6336972f7e61f",
+        "id": "57dd999ce0902f69",
         "type": "tabs",
         "children": [
           {
-            "id": "1be496dad427a4a9",
+            "id": "a54914cfa1c346cf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,7 +34,7 @@
             }
           },
           {
-            "id": "b6ff3f524e1a76d9",
+            "id": "166c44b58273f07c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,20 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "37d199a489865f66",
+    "id": "1b50e528ad3fc27a",
     "type": "split",
     "children": [
       {
-        "id": "7756a37931f07655",
+        "id": "f228e4c8141a70ce",
         "type": "tabs",
         "children": [
           {
-            "id": "d9fa5ec2f429b6cf",
+            "id": "3e2c79aa8023d254",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session X - 25.04.2021.md",
+                "file": "_notes/Atomic Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,25 +78,34 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "0632ac25025f36ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_notes/Atomic Notes.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "c49532eb224d2b5d",
+  "active": "2f8ba548394f48a2",
   "lastOpenFiles": [
-    "Session X - 25.04.2021.md",
-    "Strahd von Zarovich.md",
-    "Quest - Vermisste Tochter finden.md",
-    "Quest - Trockene Kehlen.md",
-    "Quest - Bluto ist verschwunden.md",
-    "Quest - Lady des Sees.md",
-    "Session x - 11.04.2021.md",
-    "Vallakische Gesetze.md",
-    "Untitled.md",
-    "Direktorin Claudia Belasto.md"
+    "_notes/Atomic Notes.md",
+    "_notes/Docker.md",
+    "_notes/Einrichtungsscript.md",
+    "_notes/Funk Garagenöffner.md",
+    "_notes/Persönlichkeitsentwicklung.md",
+    "_notes/Sonstiges.md",
+    "_notes/Tech.md",
+    "_notes/Projektideen.md",
+    "_notes/Startseite.md",
+    "_notes/Persönlichkeitsentwicklungs.md"
   ]
 }
