@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Quest - Vermisste Tochter finden.md",
+            "file": "_notes/Vallaki.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Quest - Vermisste Tochter finden.md",
+                "file": "_notes/Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Quest - Vermisste Tochter finden.md"
+                "file": "_notes/Vallaki.md"
               }
             }
           }
@@ -97,15 +97,15 @@
   },
   "active": "2f8ba548394f48a2",
   "lastOpenFiles": [
-    "_notes/Quest - Vermisste Tochter finden.md",
-    "_notes/Session x - 11.04.2021.md",
-    "_notes/Übersicht.md",
-    "_notes/Quest - Bluto ist verschwunden.md",
+    "_notes/Vallaki.md",
+    "_notes/Session X - 11.04.2021.md",
+    "_notes/Bluto.md",
     "_notes/Quest - Lady des Sees.md",
+    "_notes/Ismark.md",
+    "_notes/Die Lady des Sees.md",
+    "_notes/Quest - Bluto ist verschwunden.md",
     "_notes/Quest - Trockene Kehlen.md",
-    "_notes/Session X - 25.04.2021.md",
-    "_notes/Startseite.md",
-    "_notes/Strahd von Zarovich.md",
-    "_notes/Vallakische Gesetze.md"
+    "_notes/Direktorin Claudia Belasto.md",
+    "_notes/Quest - Vermisste Tochter finden.md"
   ]
 }

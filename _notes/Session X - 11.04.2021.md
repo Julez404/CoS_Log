@@ -6,7 +6,7 @@ title: Session X - 11.04.2021
 
 Ausgangssituation nach verlassen der Mühle.
 
-* Verlassen die Mühle und gehen weiter Richtung Valaki.
+* Verlassen die Mühle und gehen weiter Richtung [[Vallaki]].
 * Bekommen von Bella jeweils einen Heiltrank, trinken ihn sofort.
 * Ireena will eine Abkürzung durch den Wald machen um ein paar Stunden zu sparen.
 
@@ -14,7 +14,7 @@ Ausgangssituation nach verlassen der Mühle.
 
 * Wir beschließen durch den Wald zu gehen.
 
-* Nach ein Paar Stunden durch den Wald entdecken wir die Straße nach Valaki.
+* Nach ein Paar Stunden durch den Wald entdecken wir die Straße nach [[Vallaki]].
 
 * Mann wird von Wölfen verfolgt. Wir retten ihn, er erzählt uns von einem Angriff auf seine 
 * Er heißt Vasili von Holtz und kommt aus Valaki
@@ -105,7 +105,7 @@ Lucian geht mit der Gruppe in einer Hinterzimmer der Kirche.
 Laut Lucian kann er nicht helfen.
 In Kresk in der Abtei soll es einen Heiler geben der Ihm helfen könnte.
 
-Ismark beschließt die Nacht draußen zu verbringen.
+[[Ismark]] beschließt die Nacht draußen zu verbringen.
 
 Wir verlassen die Kirche
 
@@ -149,7 +149,7 @@ https://www.youtube.com/watch?v=1fsxBPtF-UQ
 Bluto scheint noch von niemanden gesehen worden sein. Er ist der Stadtsäufer und Fischer, der keine Fische mehr fängt.
 Danika meint beim letzten besucht sagt er, er würde sein Schicksal jetzt selbst in die Hand nehmen. Ist aber auch ein Armer Kerl, seine Frau ist erst gesrotben.
 
-[[Quest - Bluto ist verschwunden]]
+[[Quest - Wo ist Bluto]]
 
 [[Rictavio]] erzählt [[Danarei]] entwas über das Buch das er gerade liest.
 
@@ -167,13 +167,13 @@ Sie zeigt die Umgebung rund um [[Vallaki]]
 
 ---
 
-Unterhaltung mit [[Rictavio]] ergibt das er, als er ins das Land gekommen ist, kurz vor Vallaki aufgewacht ist.
+Unterhaltung mit [[Rictavio]] ergibt das er, als er ins das Land gekommen ist, kurz vor [[Vallaki]] aufgewacht ist.
 
 [[Rictavio]] lässt [[Danarei]] abblitzen.
 [[Danarei]] macht sich an [[Dorina die Fröhliche]] ran und macht die zu Dorina die Befriedigte.
 
 
-## Der nächste Tag in Wallaki
+## Der nächste Tag in [[Vallaki]]
 [[Thava]] Sieht auf wie Groot
 [[Nordex]]  hat weitere Augen an seinem Körper. Seine Klamotten haben sich an den Besagten stellen weggebrannt.
 [[Lavinia]] hat lediglich schlecht geschlafen.

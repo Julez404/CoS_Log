@@ -68,11 +68,11 @@ Climmba wirft mit Nordexes Seil nach dem Boot und trifft womit er es zu sich Zie
 [[Lavinia]] stabilisiert [[Arabel]] und drückt ihr das Wasser aus den Lungen.
 --> [[Arabel]] gefunden [[Quest - Vermisste Tochter finden]]
 
-[[Die Lady des Sees]] versprach im reiche Fischernte wenn er Sie opfert.
+[[Lady des Sees]] versprach im reiche Fischernte wenn er Sie opfert.
 
-[[Arabel]] ist verunsichert, selbst wenn wir ihn seinem Vater ausliefern. [[Die Lady des Sees]] scheint das Problem darzustellen --> [[Quest - Lady des Sees]]
+[[Arabel]] ist verunsichert, selbst wenn wir ihn seinem Vater ausliefern. [[Lady des Sees]] scheint das Problem darzustellen --> [[Quest - Lady des Sees]]
 
-[[Bluto]] berichtet das er nur die Stimme der [[Die Lady des Sees]] Gehört hat.
+[[Bluto]] berichtet das er nur die Stimme der [[Lady des Sees]] Gehört hat.
 
 Wir gehen mit [[Bluto]] und [[Arabel]] zum Festtani Lager in dem wir zuvor die [[Quest - Vermisste Tochter finden]] aufgenommen haben.
 
