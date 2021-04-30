@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Morgantha.md",
+            "file": "_notes/Quest - Wo ist Bluto.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Morgantha.md",
+                "file": "_notes/Quest - Wo ist Bluto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Morgantha.md"
+                "file": "_notes/Quest - Wo ist Bluto.md"
               }
             }
           }
@@ -97,15 +97,15 @@
   },
   "active": "fc3b36c86782f5e2",
   "lastOpenFiles": [
+    "_notes/Quest - Wo ist Bluto.md",
+    "_notes/Übersicht.md",
+    "_notes/Lady des Sees.md",
+    "_notes/Quest - Lady des Sees.md",
     "_notes/Morgantha.md",
     "_notes/Alte Mühle.md",
     "_notes/Bella.md",
     "_notes/Alicia.md",
     "_notes/Arabelle.md",
-    "_notes/Anastrasya Karelova.md",
-    "_notes/Festfani.md",
-    "_notes/Session X - 25.04.2021.md",
-    "_notes/Festani.md",
-    "_notes/Untitled.md"
+    "_notes/Anastrasya Karelova.md"
   ]
 }

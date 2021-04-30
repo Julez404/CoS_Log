@@ -1,5 +1,5 @@
 ---
-title: Die Lady des Sees
+title: Quest - Lady des Sees
 ---
 
 **Questgeber:** [[Arabelle]]
