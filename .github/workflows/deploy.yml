@@ -25,7 +25,7 @@ jobs:
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
     - uses: actions/upload-artifact@v2
       with:
-        name: strahd_page
+        name: website
         path: _site
 
   deploy:
@@ -35,7 +35,7 @@ jobs:
     - name: Download a Build Artifact
       uses: actions/download-artifact@v2.0.9
       with:
-        name: strahd_page
+        name: website
         path: _site
     - name: Copy folder content recursively to remote (clean directory)
       uses: garygrossgarten/github-action-scp@release
