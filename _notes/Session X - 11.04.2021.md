@@ -7,7 +7,7 @@ title: Session X - 11.04.2021
 Ausgangssituation nach verlassen der Mühle.
 
 * Verlassen die Mühle und gehen weiter Richtung [[Vallaki]].
-* Bekommen von Bella jeweils einen Heiltrank, trinken ihn sofort.
+* Bekommen von [[Bella]] jeweils einen Heiltrank, trinken ihn sofort.
 * Ireena will eine Abkürzung durch den Wald machen um ein paar Stunden zu sparen.
 
 * Wir wegen dir Gefahren des Waldes ab.
@@ -73,7 +73,7 @@ Der Jäger und die Kinder flüchten und die Hexen streiten.
 
 ## Sind an einem Dorfplatz
 **Händlerviertel**
-Hier befindet sich auch das BlueWater Inn.
+Hier befindet sich auch das [[Blue Water Inn]].
 
 
 Nach einer weile kommen wir an einer größeren Kirche an.

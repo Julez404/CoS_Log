@@ -18,7 +18,7 @@ Vor dem weißenhaus psieln kinder mit ihrem Ball.
 
 [[Danarei]] nähert sich dem Weißenhaus und eine ältere Frau Öffnet die Tür des weisenhauses.
 
-Die Frau [[Direktorin Claudia Belasto]] nimmt Mürte mit und führt sie umher.
+Die Frau [[Direktorin Claudia Belasto]] nimmt [[Mürte]] mit und führt sie umher.
 Das Weißenhaus ist etwas größer für eine Menge Kinder.
 
 Wir machen uns auf den Weg zu den [[Festfani]] in Richtung Südwesten. Machen einen schlenker über den Marktplatz.

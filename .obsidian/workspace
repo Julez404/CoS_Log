@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Session X - 11.04.2021.md",
+            "file": "_notes/Arabelle.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Händlervirtel",
+                "query": "Blue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Session X - 11.04.2021.md",
+                "file": "_notes/Arabelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Session X - 11.04.2021.md"
+                "file": "_notes/Arabelle.md"
               }
             }
           }
@@ -98,15 +97,15 @@
   },
   "active": "034db37d2c2d2eb2",
   "lastOpenFiles": [
-    "_notes/Session X - 11.04.2021.md",
-    "_notes/Übersicht.md",
-    "_notes/Spieler.md",
-    "_notes/Quests.md",
-    "_notes/Charaktere.md",
-    "_notes/Sessionlogs.md",
-    "_notes/Quest - Wo ist Bluto.md",
-    "_notes/Lady des Sees.md",
-    "_notes/Quest - Lady des Sees.md",
-    "_notes/Morgantha.md"
+    "_notes/Arabelle.md",
+    "_notes/Dream Pasties.md",
+    "_notes/Mürte.md",
+    "_notes/Session X - 25.04.2021.md",
+    "_notes/Vallakies Waisenhaus.md",
+    "_notes/Vallaki.md",
+    "_notes/Vallakische Gesetze.md",
+    "_notes/Wizards of Wine.md",
+    "_notes/Bluto.md",
+    "_notes/Madame Eva.md"
   ]
 }

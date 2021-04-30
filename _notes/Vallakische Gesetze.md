@@ -77,19 +77,3 @@ By the Grace of the Morninglord and the wisdom of His Eminence the Baron Vargas 
   
 
 All Will Be Well
-
-  
-
-Registry:
-
--   Name:
-    
--   Occupation:
-    
--   Entry Date:
-    
--   Place of Origin:
-    
--   Reason for Visit:
-    
--   Weapons Declared:
