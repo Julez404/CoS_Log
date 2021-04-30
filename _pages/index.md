@@ -5,14 +5,11 @@ id: home
 permalink: /
 ---
 
-# Willkommen! 🌱
+# Willkommen
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Zum Einstieg in den Digitalen Garten <span style="font-weight: bold">[[Startseite]]</span> aufrufen
+  Zum Einstieg bitte die [[Übersicht]] öffnen.</span>
 </p>
-
-Das Template ist open source und kann hier gefunden werden: 
-[GitHub Repository](https://github.com/maximevaillancourt/digital-garden-jekyll-template)!
 
 <style>
   .wrapper {
