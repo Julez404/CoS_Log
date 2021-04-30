@@ -2,7 +2,7 @@
 title: Quest - Vermisste Tochter finden
 ---
 
-[[Arabel]], die Tochter von [[Luvash]] wird vermisst.
+[[Arabelle]], die Tochter von [[Luvash]] wird vermisst.
 
 **Questgeber:** [[Luvash]]
 

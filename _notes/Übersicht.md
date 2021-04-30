@@ -21,5 +21,5 @@ title: Übersicht
 * [[Thava]]
 
 ### NPCs
-[[Arabel]]
+[[Arabelle]]
 [[Ismark]]

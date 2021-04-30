@@ -24,11 +24,11 @@ Er trägt 3 Waffen bei sich:
 * Langbogen Aus Schwarzholz mit Dornen
 * Kriegshammer
 
-*Ich nehme mir das Beil und Nordex den Kriegshammer.*
+*Ich nehme mir das Beil und [[Nordex]] den Kriegshammer.*
 
 Rechts der Siedlung ist ein großer See.
 
-Danarei erkundigt sich nach einer Verlassenen Hütte.
+[[Danarei]] erkundigt sich nach einer Verlassenen Hütte.
 
 **Gasthaus / Taverne --> Bluewater Inn**
 
@@ -113,7 +113,7 @@ Wir verlassen die Kirche
 [[Ismark]] verlässt die Stadt durch das Westtor. Er verabschiedet sich und gibt uns unsere Belohnung.
 
 ## Im Gasthaus Bluewater Inn
-Wir gehen ins Gasthaus [[Blue Water Inn]] und setzen uns an einen Tisch. Danarei und Lavinia gehen zur Theke.
+Wir gehen ins Gasthaus [[Blue Water Inn]] und setzen uns an einen Tisch. [[Danarei]] und [[Lavinia]] gehen zur Theke.
 
 [[Danika Martikov]] redet mit einem anderen Gast darüber, dass Festani vor der Stadt zertreut sind.
 
@@ -145,8 +145,8 @@ Die Bardin [[Dorina die Fröhliche]] sing ein Lied für uns.
 https://www.youtube.com/watch?v=1fsxBPtF-UQ
 
 
-**[[Lavinia]] belauscht [[Danika Martikov]] die immer noch über Bluto spricht:**
-Bluto scheint noch von niemanden gesehen worden sein. Er ist der Stadtsäufer und Fischer, der keine Fische mehr fängt.
+**[[Lavinia]] belauscht [[Danika Martikov]] die immer noch über [[Bluto]] spricht:**
+[[Bluto]] scheint noch von niemanden gesehen worden sein. Er ist der Stadtsäufer und Fischer, der keine Fische mehr fängt.
 Danika meint beim letzten besucht sagt er, er würde sein Schicksal jetzt selbst in die Hand nehmen. Ist aber auch ein Armer Kerl, seine Frau ist erst gesrotben.
 
 [[Quest - Wo ist Bluto]]
