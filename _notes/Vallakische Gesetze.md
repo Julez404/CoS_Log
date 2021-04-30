@@ -2,36 +2,21 @@
 title: Vallakische Gesetze
 ---
 
-By order of his Eminence, Baron Vargas Vallakovich, Burgomaster of [[Vallaki]], in order to ensure the continued peace and prosperity of the Great and Joyous town of [[Vallaki]] and the security of its fine citizens, all visitors and residents shall comply with these laws in addition to those observed by common custom within the Valley of Barovia:
+Auf Befehl seiner Eminence, Baron [[Vargas Vallakovich]], Bürgermeister [[Vallaki]]s, um den kontinuirlichen frieden und Wohlstand der großen und freudigen Stadt [[Vallaki]] und der Sicherheit deren feinen Bürger, sollen alle Besucher und Bewohner sich an diese Regeln halten, zusätzlich zu den bekannten Regeln in der Region [[Barovia]]:
 
-  
+Für Bestrafungen welche eine variablen Strafsatz besitzen, soll die schwere des begangenen verbrechens und die Absicht des Straftäters berücksichtigt werden. Wenn ein Täter verurteilt wird, am galgen zu hängen, soll dieser zunächst an den Pranger gestellt werden um ein Exempel zu statuieren, jedoch nicht für mehr als 24 Stunden, am Folgetag der Inhaftierung soll die Exekution stattfinden.
 
-For punishments bearing a variable sentence, the severity of punishment shall vary depending on the severity of the crime and the intent of the offender. If an offender is sentenced to hang from the gallows, they shall first be imprisoned in the stocks for no more than twenty four (24) hours to serve as a public example, and shall be subsequently executed at the next morning following their arrest.
-
-  
-
-Malicious Unhappiness
-
--   Referring to a certain tyrannical individual, who lairs within Castle Ravenloft, by his given name is forbidden within [[Vallaki]] walls. None shall speak this name aloud or carry written documents bearing this name. If this individual must be mentioned, he shall be referred to simply as The Devil.
-    
+**Bösartiges Unglück**
+* Verweisend auf ein tyranisches individuum, welches in Schloss Ravenloft verweilt, soll innerhalb der Mauern von [[Vallaki]] nicht bei seinem Name genannt werden. Sein Name ist nicht laut auszusprechen und das mitführen von Dokumenten mit seinem Namen ist nicht gestattet. Wenn er erwähnt werden muss, ist er als **Der Teufel** zu bezeichnen.
+* Jede Woche findet ein Fest auf dem Marktplatz statt, um den kontinuierlichen Wohlstand und die Sicherheit unseres großen und freudigen Stadt zu feiern. Des weiteren wird die andeuernde Unterstützung   . Anwesenheit ist an sämtlichen Festen verpflichtent.
 -   A Festival of [[Vallaki]] is held each week in the town square to celebrate the continued prosperity and security of our Great and Joyous town, and to show our continued support and appreciation for his Eminence the Baron Vargas Vallakovich, whose wise decrees have kept The Devil at bay and whose efforts and guidance shall return our lands into the graces of the Morninglord so that we shall once again feel the warmth of the sun. Attendance at all festivals is mandatory.
-    
 -   None may speak ill of any festivals held within [[Vallaki]], nor hold any documents that present them in an ill light. Happiness is the key to [[Vallaki]]’s safety, and any resident or visitor that threatens to harm morale also threatens to harm [[Vallaki]] as a whole!
-    
 -   All residents, and any visitors staying within [[Vallaki]] walls for longer than five (5) days, shall assist with all festivals within [[Vallaki]], such assistance including but not limited to preparations and clean-up. These duties shall rotate through the general public on a basis determined by lots drawn biannually.
-    
 -   All residents and visitors, irrespective of length of stay, shall attend all festivals. To enforce this decree, the [[Vallaki]] guard shall go door-to-door in the time before and during a festival, and patrol the streets to ensure that no attendee has been left out.
     
-
-  
-
 Any Vallakian or visitor who breaks these laws shall be charged with Malicious Unhappiness, which bears a punishment of no less than two (2) and no more than twelve (12) days of public humiliation in the stocks, and/or a fine not to exceed five (5) gold pieces.
 
-  
-
 Repeated offenses of Malicious Unhappiness are punishable by commitment to the Vallakovich Reformation Center.
-
-  
 
 Greater Crimes
 
@@ -70,10 +55,5 @@ Concerning Entry into the Great and Joyous Town of [[Vallaki]]
 -   Under no circumstances shall entry into the Great and Joyous town of [[Vallaki]] be granted to known agents and retainers of The Devil, including those folk who refer to themselves as Vistani. Knowingly granting entry into [[Vallaki]] to said individuals is punishable by seizure of the criminal’s goods and permanent exile.
     
 
-  
 
 By the Grace of the Morninglord and the wisdom of His Eminence the Baron Vargas Vallakovich, Burgomaster,
-
-  
-
-All Will Be Well
