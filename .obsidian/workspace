@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Luvash.md",
+            "file": "_notes/Festfani.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ara",
+                "query": "Fest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Luvash.md",
+                "file": "_notes/Festfani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Luvash.md"
+                "file": "_notes/Festfani.md"
               }
             }
           }
@@ -98,15 +98,15 @@
   },
   "active": "fc3b36c86782f5e2",
   "lastOpenFiles": [
+    "_notes/Festani.md",
+    "_notes/Arabelle.md",
+    "_notes/Untitled.md",
     "_notes/Luvash.md",
     "_notes/Arabel.md",
-    "_notes/Untitled.md",
     "_notes/Madame Eva.md",
     "_notes/Nordex.md",
     "_notes/Lavinia.md",
     "_notes/Danika Martikov.md",
-    "_notes/Blue Water Inn.md",
-    "_notes/Quest - Trockene Kehlen.md",
-    "_notes/Quest - Vermisste Tochter finden.md"
+    "_notes/Blue Water Inn.md"
   ]
 }
