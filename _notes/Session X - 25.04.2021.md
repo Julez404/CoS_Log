@@ -6,7 +6,7 @@ title: Session X - 25.04.2021
 
 [[Danarei]] möchte zunächst zu den [[Festfani]] vor der Stadt gehen.
 
-* Zurück im Bluewater Inn unterhalten sich Vsilii und Ireena
+* Zurück im [[Blue Water Inn]] unterhalten sich Vsilii und Ireena
 * Wir gehen zu ihr um sie auf den aktuellen stand zu bringen.
 * Vasili weißt uns darauf hin das es ein Weisenhaus gibt für das Kind gäbe, dieses liegt im Osten. 
 * Mürtel möchte lieber im weißenhaus bleiben während ihres Ausenthalts.

@@ -30,7 +30,7 @@ Rechts der Siedlung ist ein großer See.
 
 [[Danarei]] erkundigt sich nach einer Verlassenen Hütte.
 
-**Gasthaus / Taverne --> Bluewater Inn**
+**Gasthaus / Taverne --> [[Blue Water Inn]]**
 
 ---
 Vater Lucian: <-- Morning Lord Priester
@@ -66,13 +66,13 @@ Wird überklebt mit "The Festival of the blazing Sun!"
 Wir treffen [[Rictavio]] -> *Elf*
 Geht hinter eine Bühne und beginnt ein Puppenspiel mit 3 Hexen und 3 Kindern in Käfigen.
 *Ähnlich zu Hänsel und Grätel*
-Die Hexen essen eines der Kinder. Ein Mobsterjäger erscheint und tötet eine der Hexen.
+Die Hexen essen eines der Kinder. Ein Monsterjäger erscheint und tötet eine der Hexen.
 Der Jäger und die Kinder flüchten und die Hexen streiten.
 
 
 
 ## Sind an einem Dorfplatz
-**Händlervirtel**
+**Händlerviertel**
 Hier befindet sich auch das BlueWater Inn.
 
 
@@ -112,7 +112,7 @@ Wir verlassen die Kirche
 ## Ismarck verlässt die Stadt
 [[Ismark]] verlässt die Stadt durch das Westtor. Er verabschiedet sich und gibt uns unsere Belohnung.
 
-## Im Gasthaus Bluewater Inn
+## Im Gasthaus [[Blue Water Inn]]
 Wir gehen ins Gasthaus [[Blue Water Inn]] und setzen uns an einen Tisch. [[Danarei]] und [[Lavinia]] gehen zur Theke.
 
 [[Danika Martikov]] redet mit einem anderen Gast darüber, dass Festani vor der Stadt zertreut sind.
