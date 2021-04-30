@@ -44,7 +44,7 @@ Ein anderer Mann gibt im zu wissen, dass er aufhören kann.
 [[Arabel]], [[Luvash]]s Tochter wird vermisst.
 Von [[Luvash]] --> [[Quest - Vermisste Tochter finden]]
 
-Wir gehen zurück nach Vallaki und gehen zum Weißenhaus.
+Wir gehen zurück nach [[Vallaki]] und gehen zum Weißenhaus.
 Wir erlangen Infos für [[Quest - Vermisste Tochter finden]] vonden Kindern.
 Wir gehen zurück zum [[Blue Water Inn]] und [[Danarei]] redet mit [[Danika Martikov]] und möchte von ihr den Ort seines Hauses haben. Sie beschreibt die Position in den Slums im Osten der Stadt.
 
