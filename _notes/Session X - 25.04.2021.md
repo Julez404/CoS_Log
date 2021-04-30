@@ -4,7 +4,7 @@ title: Session X - 25.04.2021
 
 **Ashley ist *quasi* bei uns**
 
-[[Danarei]] möchte zunächst zu den Vestani vor der Stadt gehen.
+[[Danarei]] möchte zunächst zu den [[Festfani]] vor der Stadt gehen.
 
 * Zurück im Bluewater Inn unterhalten sich Vsilii und Ireena
 * Wir gehen zu ihr um sie auf den aktuellen stand zu bringen.
@@ -21,17 +21,17 @@ Vor dem weißenhaus psieln kinder mit ihrem Ball.
 Die Frau [[Direktorin Claudia Belasto]] nimmt Mürte mit und führt sie umher.
 Das Weißenhaus ist etwas größer für eine Menge Kinder.
 
-Wir machen uns auf den Weg zu den Vestani in Richtung Südwesten. Machen einen schlenker über den Marktplatz.
+Wir machen uns auf den Weg zu den [[Festfani]] in Richtung Südwesten. Machen einen schlenker über den Marktplatz.
 
 Auf dem Platz befinden sich Pranger mit Personen darin.
 Wir gehen vorbei und machen und duch das Westtor auf dn weg. Beim Verlassen des Tores waren es ca. 11 Uhr
 
-## Auf dem Weg zu den Festani
-Wir kommen an einen Hügel etwas Süflich auserhalb des Westtores an. Auf diesem Befindetr sich Häuser des Vestani
+## Auf dem Weg zu den [[Festfani]]
+Wir kommen an einen Hügel etwas Süflich auserhalb des Westtores an. Auf diesem Befindetr sich Häuser des [[Festfani]]
 
 Wir hören einen Schrei und Knall und gehen zu dem Zelt von dem das Geräusch kam. Es sind Peitschen geräusche und das schreier eines jungen Mannes. Einer der Wägen neben dem Zelt hat Felgen der Wägen scheinen aus Gold zu sein und 
 
-Im Zelt sind mehrere Lagerfeuer. Überall liegen festvani, 
+Im Zelt sind mehrere Lagerfeuer. Überall liegen betrunkene [[Festfani]], 
 Mann mit genieteter Rüstung peitscht einen Mann aus der am Mittleren Stamm gefesselt ist.
 
 Ein anderer Mann gibt im zu wissen, dass er aufhören kann.

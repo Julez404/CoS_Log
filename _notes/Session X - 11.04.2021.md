@@ -184,7 +184,7 @@ Unterhaltung mit [[Rictavio]] ergibt das er, als er ins das Land gekommen ist, k
 **Fimtool:**
 **Apotheke: Armenviertel**
 **Bücherladen (Stadtplatz):**
-**Peilbauer Kewal (Vestani Lager):**
+**Peilbauer Kewal ([[Festfani]] Lager):**
 **Blinzgies (Spielzeugladen) Straße Richtung Süden zur Bürgermeistervilla:**
 
 

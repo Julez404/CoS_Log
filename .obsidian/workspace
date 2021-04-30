@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Festfani.md",
+            "file": "_notes/Morgantha.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Fest",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Festfani.md",
+                "file": "_notes/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Festfani.md"
+                "file": "_notes/Morgantha.md"
               }
             }
           }
@@ -98,15 +97,15 @@
   },
   "active": "fc3b36c86782f5e2",
   "lastOpenFiles": [
-    "_notes/Festani.md",
+    "_notes/Morgantha.md",
+    "_notes/Alte Mühle.md",
+    "_notes/Bella.md",
+    "_notes/Alicia.md",
     "_notes/Arabelle.md",
-    "_notes/Untitled.md",
-    "_notes/Luvash.md",
-    "_notes/Arabel.md",
-    "_notes/Madame Eva.md",
-    "_notes/Nordex.md",
-    "_notes/Lavinia.md",
-    "_notes/Danika Martikov.md",
-    "_notes/Blue Water Inn.md"
+    "_notes/Anastrasya Karelova.md",
+    "_notes/Festfani.md",
+    "_notes/Session X - 25.04.2021.md",
+    "_notes/Festani.md",
+    "_notes/Untitled.md"
   ]
 }
