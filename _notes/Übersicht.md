@@ -4,8 +4,8 @@ title: Übersicht
 
 ## Session Logs
 
-[[Session X - 11.04.2021]]
-[[Session X - 25.04.2021]]
+* [[Session X - 11.04.2021]]
+* [[Session X - 25.04.2021]]
 
 
 ## Quests
@@ -16,6 +16,11 @@ title: Übersicht
 
 
 ### Spieler
+* [[Climba]]
+* [[Danarei]]
+* [[Nordex]]
+* [[Thava]]
+* [[Lavinia]]
 
 ### NPCs
 
