@@ -52,7 +52,7 @@ Wir tricksen die Vorkehrung der Münze aus indem sie "Verloren" ging
     * Fest der Flamenden Sonne steht in ca. 5 Tagen an.
 4. Nicht Einhaltung führt zur Bestrafung.
 
-Getränke kommen von den Wizards of Wine.
+Getränke kommen von den [[Wizards of Wine]].
 **Sollte eingeschränkt sein nach aussage der Rf
 
 **[[Danika Martikov]] und [[Ervan]] im [[Blue Water Inn]]** <-- Nachfragen bzgl. des Weines

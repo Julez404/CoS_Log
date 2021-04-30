@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d3aa904084c34190",
+        "id": "fc3b36c86782f5e2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Session X - 11.04.2021.md",
+            "file": "_notes/Übersicht.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Session X - 11.04.2021.md",
+                "file": "_notes/Übersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Session X - 11.04.2021.md"
+                "file": "_notes/Übersicht.md"
               }
             }
           }
@@ -95,17 +95,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d3aa904084c34190",
+  "active": "fc3b36c86782f5e2",
   "lastOpenFiles": [
+    "_notes/Übersicht.md",
+    "_notes/Wizards of Wine.md",
+    "_notes/Session X - 25.04.2021.md",
+    "_notes/Arabel.md",
+    "_notes/Ismark.md",
+    "_notes/Quest - Trockene Kehlen.md",
     "_notes/Session X - 11.04.2021.md",
     "_notes/Lavinia.md",
     "_notes/Thava.md",
-    "_notes/Übersicht.md",
-    "_notes/Danarei.md",
-    "_notes/Climba.md",
-    "_notes/Nordex.md",
-    "_notes/Session X - 25.04.2021.md",
-    "_notes/Strahd von Zarovich.md",
-    "_notes/Untitled.md"
+    "_notes/Danarei.md"
   ]
 }

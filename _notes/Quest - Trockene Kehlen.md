@@ -6,7 +6,7 @@ Der Wein bleibt aus:
 
 ....
 
-**Wizards of Wine**
+**[[Wizards of Wine]]**
 
 **Questgeber:** [[Danika Martikov]] und [[Ervan]]
 **Beschreibung:** 

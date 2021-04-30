@@ -87,9 +87,9 @@ Wir bekommen die Schatulle aus [[Quest - Vermisste Tochter finden]]
 
 
 ---
-Wir erkundigen uns nach den Wizards of Wine
+Wir erkundigen uns nach den [[Wizards of Wine]]
 
-## Zu den Wizards of Wine
+## Zu den [[Wizards of Wine]]
 Wir brechen auf um die [[Quest - Trockene Kehlen]] zu bearbeiten.
 
 Nähern uns eine Schlucht mit Brücke von ca. 3m tiefe.
