@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Abenteurer.md",
+            "file": "_notes/Übersicht.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Abenteurer.md",
+                "file": "_notes/Übersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Abenteurer.md"
+                "file": "_notes/Übersicht.md"
               }
             }
           }
@@ -97,8 +97,8 @@
   },
   "active": "034db37d2c2d2eb2",
   "lastOpenFiles": [
-    "_notes/Spieler.md",
     "_notes/Übersicht.md",
+    "_notes/Spieler.md",
     "_notes/Quests.md",
     "_notes/Charaktere.md",
     "_notes/Sessionlogs.md",

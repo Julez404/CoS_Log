@@ -34,7 +34,7 @@ Rechts der Siedlung ist ein großer See.
 
 ---
 Vater Lucian: <-- Morning Lord Priester
-*Hoffnung:* Hilfe bzgl Issmarck
+*Hoffnung:* Hilfe bzgl [[Ismark]]
 
 ---
 

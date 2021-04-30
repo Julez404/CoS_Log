@@ -8,6 +8,3 @@ Der Inhalt dieses Tagebuchs Gliedert sich in verschiedene Bereiche.
 * [[Quests]]
 * [[Abenteurer]]
 * [[Charaktere]]
-
-### NPCs
-
