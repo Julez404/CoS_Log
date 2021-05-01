@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Festfani.md",
+            "file": "_notes/Quests.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Festfani.md",
+                "file": "_notes/Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Festfani.md"
+                "file": "_notes/Quests.md"
               }
             }
           }
@@ -97,6 +97,8 @@
   },
   "active": "2f8ba548394f48a2",
   "lastOpenFiles": [
+    "_notes/Quests.md",
+    "_notes/Sessionlogs.md",
     "_notes/Festfani.md",
     "_notes/Haus der Freude.md",
     "_notes/Ismark.md",
@@ -104,8 +106,6 @@
     "_notes/Lavinia.md",
     "_notes/Luvash.md",
     "_notes/Madame Eva.md",
-    "_notes/Morgantha.md",
-    "_notes/Mürte.md",
-    "_notes/Nordex.md"
+    "_notes/Morgantha.md"
   ]
 }
