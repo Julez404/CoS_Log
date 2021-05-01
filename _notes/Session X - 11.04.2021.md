@@ -1,20 +1,20 @@
 ---
-title: Session x - 11.04.2021
+title: Session X - 11.04.2021
 ---
 
 ## Auf dem Weg nach [[Vallaki]]
 
 Ausgangssituation nach verlassen der Mühle.
 
-* Verlassen die Mühle und gehen weiter Richtung Valaki.
-* Bekommen von Bella jeweils einen Heiltrank, trinken ihn sofort.
+* Verlassen die Mühle und gehen weiter Richtung [[Vallaki]].
+* Bekommen von [[Bella]] jeweils einen Heiltrank, trinken ihn sofort.
 * Ireena will eine Abkürzung durch den Wald machen um ein paar Stunden zu sparen.
 
 * Wir wegen dir Gefahren des Waldes ab.
 
 * Wir beschließen durch den Wald zu gehen.
 
-* Nach ein Paar Stunden durch den Wald entdecken wir die Straße nach Valaki.
+* Nach ein Paar Stunden durch den Wald entdecken wir die Straße nach [[Vallaki]].
 
 * Mann wird von Wölfen verfolgt. Wir retten ihn, er erzählt uns von einem Angriff auf seine 
 * Er heißt Vasili von Holtz und kommt aus Valaki
@@ -24,17 +24,17 @@ Er trägt 3 Waffen bei sich:
 * Langbogen Aus Schwarzholz mit Dornen
 * Kriegshammer
 
-*Ich nehme mir das Beil und Nordex den Kriegshammer.*
+*Ich nehme mir das Beil und [[Nordex]] den Kriegshammer.*
 
 Rechts der Siedlung ist ein großer See.
 
-Danarei erkundigt sich nach einer Verlassenen Hütte.
+[[Danarei]] erkundigt sich nach einer Verlassenen Hütte.
 
-**Gasthaus / Taverne --> Bluewater Inn**
+**Gasthaus / Taverne --> [[Blue Water Inn]]**
 
 ---
 Vater Lucian: <-- Morning Lord Priester
-*Hoffnung:* Hilfe bzgl Issmarck
+*Hoffnung:* Hilfe bzgl [[Ismark]]
 
 ---
 
@@ -52,7 +52,7 @@ Wir tricksen die Vorkehrung der Münze aus indem sie "Verloren" ging
     * Fest der Flamenden Sonne steht in ca. 5 Tagen an.
 4. Nicht Einhaltung führt zur Bestrafung.
 
-Getränke kommen von den Wizards of Wine.
+Getränke kommen von den [[Wizards of Wine]].
 **Sollte eingeschränkt sein nach aussage der Rf
 
 **[[Danika Martikov]] und [[Ervan]] im [[Blue Water Inn]]** <-- Nachfragen bzgl. des Weines
@@ -66,14 +66,14 @@ Wird überklebt mit "The Festival of the blazing Sun!"
 Wir treffen [[Rictavio]] -> *Elf*
 Geht hinter eine Bühne und beginnt ein Puppenspiel mit 3 Hexen und 3 Kindern in Käfigen.
 *Ähnlich zu Hänsel und Grätel*
-Die Hexen essen eines der Kinder. Ein Mobsterjäger erscheint und tötet eine der Hexen.
+Die Hexen essen eines der Kinder. Ein Monsterjäger erscheint und tötet eine der Hexen.
 Der Jäger und die Kinder flüchten und die Hexen streiten.
 
 
 
 ## Sind an einem Dorfplatz
-**Händlervirtel**
-Hier befindet sich auch das BlueWater Inn.
+**Händlerviertel**
+Hier befindet sich auch das [[Blue Water Inn]].
 
 
 Nach einer weile kommen wir an einer größeren Kirche an.
@@ -105,15 +105,15 @@ Lucian geht mit der Gruppe in einer Hinterzimmer der Kirche.
 Laut Lucian kann er nicht helfen.
 In Kresk in der Abtei soll es einen Heiler geben der Ihm helfen könnte.
 
-Ismark beschließt die Nacht draußen zu verbringen.
+[[Ismark]] beschließt die Nacht draußen zu verbringen.
 
 Wir verlassen die Kirche
 
 ## Ismarck verlässt die Stadt
 [[Ismark]] verlässt die Stadt durch das Westtor. Er verabschiedet sich und gibt uns unsere Belohnung.
 
-## Im Gasthaus Bluewater Inn
-Wir gehen ins Gasthaus [[Blue Water Inn]] und setzen uns an einen Tisch. Danarei und Lavinia gehen zur Theke.
+## Im Gasthaus [[Blue Water Inn]]
+Wir gehen ins Gasthaus [[Blue Water Inn]] und setzen uns an einen Tisch. [[Danarei]] und [[Lavinia]] gehen zur Theke.
 
 [[Danika Martikov]] redet mit einem anderen Gast darüber, dass Festani vor der Stadt zertreut sind.
 
@@ -145,11 +145,11 @@ Die Bardin [[Dorina die Fröhliche]] sing ein Lied für uns.
 https://www.youtube.com/watch?v=1fsxBPtF-UQ
 
 
-**[[Lavinia]] belauscht [[Danika Martikov]] die immer noch über Bluto spricht:**
-Bluto scheint noch von niemanden gesehen worden sein. Er ist der Stadtsäufer und Fischer, der keine Fische mehr fängt.
+**[[Lavinia]] belauscht [[Danika Martikov]] die immer noch über [[Bluto]] spricht:**
+[[Bluto]] scheint noch von niemanden gesehen worden sein. Er ist der Stadtsäufer und Fischer, der keine Fische mehr fängt.
 Danika meint beim letzten besucht sagt er, er würde sein Schicksal jetzt selbst in die Hand nehmen. Ist aber auch ein Armer Kerl, seine Frau ist erst gesrotben.
 
-[[Quest - Bluto ist verschwunden]]
+[[Quest - Wo ist Bluto]]
 
 [[Rictavio]] erzählt [[Danarei]] entwas über das Buch das er gerade liest.
 
@@ -167,13 +167,13 @@ Sie zeigt die Umgebung rund um [[Vallaki]]
 
 ---
 
-Unterhaltung mit [[Rictavio]] ergibt das er, als er ins das Land gekommen ist, kurz vor Vallaki aufgewacht ist.
+Unterhaltung mit [[Rictavio]] ergibt das er, als er ins das Land gekommen ist, kurz vor [[Vallaki]] aufgewacht ist.
 
 [[Rictavio]] lässt [[Danarei]] abblitzen.
 [[Danarei]] macht sich an [[Dorina die Fröhliche]] ran und macht die zu Dorina die Befriedigte.
 
 
-## Der nächste Tag in Wallaki
+## Der nächste Tag in [[Vallaki]]
 [[Thava]] Sieht auf wie Groot
 [[Nordex]]  hat weitere Augen an seinem Körper. Seine Klamotten haben sich an den Besagten stellen weggebrannt.
 [[Lavinia]] hat lediglich schlecht geschlafen.
@@ -184,7 +184,7 @@ Unterhaltung mit [[Rictavio]] ergibt das er, als er ins das Land gekommen ist, k
 **Fimtool:**
 **Apotheke: Armenviertel**
 **Bücherladen (Stadtplatz):**
-**Peilbauer Kewal (Vestani Lager):**
+**Peilbauer Kewal ([[Festfani]] Lager):**
 **Blinzgies (Spielzeugladen) Straße Richtung Süden zur Bürgermeistervilla:**
 
 

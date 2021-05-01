@@ -2,3 +2,5 @@
 
 # Curse of Strahd Adventure
 
+This repo collect the notes from the Pen and Paper Adventure Curse of Strahd.
+The notes (german) are convertet into a static Website and published on my [Homepage](https://strahd.j-linn.de)
