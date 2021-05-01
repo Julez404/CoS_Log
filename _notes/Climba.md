@@ -26,6 +26,6 @@ Eines morgens wachte ich auf und sah zu wie Nuri sich mir dem vermutlichen Roka 
 
 Ich verließ die Gruppe und zog die kommenden Jahre alleine durchs Land. 
 
- Nach ein paar Jahren traf ich Thava und zog daraufhin mit ihre durchs Land, wir trafen und als ich an einer Waldlichtung rastete. Wir verstanden uns gut, es tat gut mal wieder mit jemandem zu reden, noch dazu mit einer Artgenossin.
+ Nach ein paar Jahren traf ich [[Thava]] und zog daraufhin mit ihre durchs Land, wir trafen und als ich an einer Waldlichtung rastete. Wir verstanden uns gut, es tat gut mal wieder mit jemandem zu reden, noch dazu mit einer Artgenossin.
  
 Ich versprach ihr, ihr bei ihrem Vorhaben zu helfen, den Mythos um ihren Großvater zu lüften. Ich hatte das Gefühl es würde mich meinem eigenen Ziel näher bringen.
