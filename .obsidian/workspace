@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Danarei.md",
+            "file": "_notes/Climba.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Danarei.md",
+                "file": "_notes/Climba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Danarei.md"
+                "file": "_notes/Climba.md"
               }
             }
           }
@@ -97,15 +97,15 @@
   },
   "active": "2f8ba548394f48a2",
   "lastOpenFiles": [
-    "_notes/Danarei.md",
-    "_notes/Lavinia.md",
-    "_notes/Nordex.md",
-    "_notes/Thava.md",
     "_notes/Climba.md",
+    "_notes/Lavinia.md",
+    "_notes/Mürte.md",
+    "_notes/Nordex.md",
+    "_notes/Bluto.md",
+    "_notes/Danarei.md",
+    "_notes/Thava.md",
     "_notes/Ismark.md",
     "_notes/Quests.md",
-    "_notes/Sessionlogs.md",
-    "_notes/Festfani.md",
-    "_notes/Haus der Freude.md"
+    "_notes/Sessionlogs.md"
   ]
 }

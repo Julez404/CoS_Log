@@ -6,7 +6,7 @@ title: Climba
 
 Ich bin in einem kleinen Dorf aufgewachsen. 
 
-"Danarei Wintermere" ist im gleichen Dorf aufgewachsen, wird verstanden uns gut durch unsere Abstammung.
+"[[Danarei]] Wintermere" ist im gleichen Dorf aufgewachsen, wird verstanden uns gut durch unsere Abstammung.
 
 Eines Abends zog Nebel auf, während ich unterwegs zu ihrer Hütte war.
 
