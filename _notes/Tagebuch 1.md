@@ -149,7 +149,7 @@ Religion:
 
 Morning Lord und Mutter Nacht
 
-[[Ismark]] nimmt uns von der Taverne mit zu sich nach Hause. Auf dem Weg bot uns eine alte Händlerin ihre Traumkuchen und Pasteten an. [[Lavinia]] und ich hatten jeweils eine genommen, ich hatte leckeren Apfelkuchen und sie eine Fleischpastete.
+[[Ismark]] nimmt uns von der Taverne mit zu sich nach Hause. Auf dem Weg bot uns eine alte Händlerin ihre Traumkuchen und Pasteten ([[Dream Pasties]]) an. [[Lavinia]] und ich hatten jeweils eine genommen, ich hatte leckeren Apfelkuchen und sie eine Fleischpastete.
 
 [[Ismark]] stellte uns zuhause seiner Schwester Ireena vor, eine hübsche junge Frau, die von Strahd begehrt wurde. Sie zeigte uns auch Bissspuren an ihrem Hals.
 

@@ -109,7 +109,7 @@ Wir schlugen unser Nachtlager in einem ganz schön gruseligen Waldteil auf. Wenn
 
   
 
-Während [[Danarei]] eine unsichtbare, magische Schutzbarriere errichtet hat, machten sich [[Nordex]] und [[Climba]] daran die Fesseln von [[Ismark]] zu verstärken. Das war sicherlich einer der besseren Aktionen von [[Climba]] und [[Nordex]], wenn man sich an das Treppendisaster im Freudenhaus erinnert. Während die Männer sich also den leichteren Teil ausgesucht hatten (Fesseln verstärken) durften [[Thava]] und ich im gruseligen Wald nach Rationen und Holz sammeln. Das ein oder andere Holzstück hat mich doch sehr an die knisternden warmen Feuer in meinen Träumen erinnert. Ach, wie gut die Pastete doch schmeckt! Ganz zu schweigen von den süßen Träumen, die sie mir beschert! Naja, wir wollen ja nicht zu sehr abschweifen …
+Während [[Danarei]] eine unsichtbare, magische Schutzbarriere errichtet hat, machten sich [[Nordex]] und [[Climba]] daran die Fesseln von [[Ismark]] zu verstärken. Das war sicherlich einer der besseren Aktionen von [[Climba]] und [[Nordex]], wenn man sich an das Treppendisaster im Freudenhaus erinnert. Während die Männer sich also den leichteren Teil ausgesucht hatten (Fesseln verstärken) durften [[Thava]] und ich im gruseligen Wald nach Rationen und Holz sammeln. Das ein oder andere Holzstück hat mich doch sehr an die knisternden warmen Feuer in meinen Träumen erinnert. Ach, wie gut die Pastete ([[Dream Pasties]]) doch schmeckt! Ganz zu schweigen von den süßen Träumen, die sie mir beschert! Naja, wir wollen ja nicht zu sehr abschweifen …
 
   
 

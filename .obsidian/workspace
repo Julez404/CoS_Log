@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Climba.md",
+            "file": "_notes/Session X - 25.04.2021.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Vine",
+                "query": "Paste",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Climba.md",
+                "file": "_notes/Session X - 25.04.2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Climba.md"
+                "file": "_notes/Session X - 25.04.2021.md"
               }
             }
           }
@@ -97,15 +97,15 @@
   },
   "active": "2f8ba548394f48a2",
   "lastOpenFiles": [
+    "_notes/Session X - 25.04.2021.md",
+    "_notes/Übersicht.md",
+    "_notes/Tagebuch 2.md",
+    "_notes/Wizards of Wine.md",
+    "_notes/Arabelle.md",
+    "_notes/Blue Water Inn.md",
+    "_notes/Festfani.md",
     "_notes/Climba.md",
-    "_notes/Thava.md",
-    "_notes/Mürte.md",
-    "_notes/Nordex.md",
-    "_notes/Quest - Lady des Sees.md",
-    "_notes/Quest - Trockene Kehlen.md",
-    "_notes/Quest - Vermisste Tochter finden.md",
-    "_notes/Quest - Wo ist Bluto.md",
-    "_notes/Quests.md",
-    "_notes/Session X - 11.04.2021.md"
+    "_notes/Tagebuch 1.md",
+    "_notes/Thava.md"
   ]
 }
