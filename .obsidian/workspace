@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Quests.md",
+            "file": "_notes/Session x - 2021-05-22.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Quests.md",
+                "file": "_notes/Session x - 2021-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Quests.md"
+                "file": "_notes/Session x - 2021-05-22.md"
               }
             }
           }
@@ -98,9 +98,9 @@
   },
   "active": "034db37d2c2d2eb2",
   "lastOpenFiles": [
+    "_notes/Session x - 2021-05-22.md",
     "_notes/Quests.md",
     "_notes/Session X - 2021-04-11.md",
-    "_notes/Session x - 2021-05-22.md",
     "_notes/Session X - 2021-04-25.md",
     "_notes/Sessionlogs.md",
     "_notes/Davian Martikov.md",
