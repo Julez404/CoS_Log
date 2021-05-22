@@ -54,6 +54,4 @@ Concerning Entry into the Great and Joyous Town of [[Vallaki]]
     
 -   Under no circumstances shall entry into the Great and Joyous town of [[Vallaki]] be granted to known agents and retainers of The Devil, including those folk who refer to themselves as Vistani. Knowingly granting entry into [[Vallaki]] to said individuals is punishable by seizure of the criminal’s goods and permanent exile.
     
-
-
 By the Grace of the Morninglord and the wisdom of His Eminence the Baron Vargas Vallakovich, Burgomaster,

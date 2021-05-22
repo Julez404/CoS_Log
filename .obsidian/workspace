@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2f8ba548394f48a2",
+        "id": "034db37d2c2d2eb2",
         "type": "leaf",
+        "dimension": 49.87146529562982,
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
             "file": "_notes/Vallakische Gesetze.md",
             "mode": "source"
           }
@@ -18,13 +18,11 @@
       {
         "id": "757b946219c3a05f",
         "type": "leaf",
+        "dimension": 50.128534704370175,
         "state": {
           "type": "markdown",
           "state": {
             "file": "_notes/Session X - 2021-04-11.md",
-=======
-            "file": "_notes/Session X - 25.04.2021.md",
->>>>>>> 9312f162ec59eb843fc469352af9241ca3e89e6a
             "mode": "source"
           }
         }
@@ -54,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Paste",
+                "query": "Blue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 304
   },
   "right": {
     "id": "1b50e528ad3fc27a",
@@ -83,11 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "_notes/Session X - 2021-04-11.md",
-=======
-                "file": "_notes/Session X - 25.04.2021.md",
->>>>>>> 9312f162ec59eb843fc469352af9241ca3e89e6a
+                "file": "_notes/Vallakische Gesetze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,11 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "_notes/Session X - 2021-04-11.md"
-=======
-                "file": "_notes/Session X - 25.04.2021.md"
->>>>>>> 9312f162ec59eb843fc469352af9241ca3e89e6a
+                "file": "_notes/Vallakische Gesetze.md"
               }
             }
           }
@@ -116,32 +106,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "2f8ba548394f48a2",
+  "active": "034db37d2c2d2eb2",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "_notes/Vallakische Gesetze.md",
     "_notes/Session X - 11.04.2021.md",
     "_notes/Session X - 25.04.2021.md",
     "_notes/Session x - 22.05.2021.md",
     "_notes/Untitled.md",
     "_notes/Quest - Vermisste Tochter finden.md",
-    "_notes/Vallakische Gesetze.md",
     "_notes/Arabelle.md",
     "_notes/Dream Pasties.md",
     "_notes/Mürte.md",
     "_notes/Vallakies Waisenhaus.md"
-=======
-    "_notes/Session X - 25.04.2021.md",
-    "_notes/Übersicht.md",
-    "_notes/Tagebuch 2.md",
-    "_notes/Wizards of Wine.md",
-    "_notes/Arabelle.md",
-    "_notes/Blue Water Inn.md",
-    "_notes/Festfani.md",
-    "_notes/Climba.md",
-    "_notes/Tagebuch 1.md",
-    "_notes/Thava.md"
->>>>>>> 9312f162ec59eb843fc469352af9241ca3e89e6a
   ]
 }
