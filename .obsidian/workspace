@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Quest - Trockene Kehlen.md",
+            "file": "_notes/Charaktere.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Quest - Trockene Kehlen.md",
+                "file": "_notes/Charaktere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Quest - Trockene Kehlen.md"
+                "file": "_notes/Charaktere.md"
               }
             }
           }
@@ -111,15 +111,15 @@
   },
   "active": "689842eb4a188875",
   "lastOpenFiles": [
-    "_notes/Quest - Trockene Kehlen.md",
+    "_notes/Charaktere.md",
     "_notes/Session x - 2021-05-22.md",
+    "_notes/Quest - Trockene Kehlen.md",
     "_notes/Adrian.md",
     "_notes/Quest - Tochter aus Weingut befreien.md",
     "_notes/Stefania.md",
     "_notes/Session X - 2021-04-25.md",
     "_notes/Vallakische Gesetze.md",
     "_notes/Session X - 11.04.2021.md",
-    "_notes/Session X - 25.04.2021.md",
-    "_notes/Session x - 22.05.2021.md"
+    "_notes/Session X - 25.04.2021.md"
   ]
 }

@@ -2,6 +2,11 @@
 title: Charaktere
 ---
 
-* [[Arabelle]]
-* [[Ismark]]
-
+- [[Arabelle]]
+- [[Ismark]]
+- Martikovs
+	- [[Davian Martikov]]
+	- [[Adrian]]
+	- [[Danika Martikov]]
+	- [[Stefania]]
+	- [[Claudiu]]
