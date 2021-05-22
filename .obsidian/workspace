@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Charaktere.md",
+            "file": "_notes/Dorina die Fröhliche.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Charaktere.md",
+                "file": "_notes/Session x - 2021-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Charaktere.md"
+                "file": "_notes/Session x - 2021-05-22.md"
               }
             }
           }
@@ -109,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "689842eb4a188875",
+  "active": "034db37d2c2d2eb2",
   "lastOpenFiles": [
-    "_notes/Charaktere.md",
     "_notes/Session x - 2021-05-22.md",
+    "_notes/Dorina die Fröhliche.md",
+    "_notes/Charaktere.md",
     "_notes/Davian Martikov.md",
     "_notes/Claudiu.md",
     "_notes/Quest - Trockene Kehlen.md",
     "_notes/Adrian.md",
     "_notes/Quest - Tochter aus Weingut befreien.md",
     "_notes/Stefania.md",
-    "_notes/Session X - 2021-04-25.md",
-    "_notes/Vallakische Gesetze.md"
+    "_notes/Session X - 2021-04-25.md"
   ]
 }
