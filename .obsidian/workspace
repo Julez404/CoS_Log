@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Vallakische Gesetze.md",
+            "file": "_notes/Session X - 2021-04-11.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Vallakische Gesetze.md",
+                "file": "_notes/Session X - 2021-04-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Vallakische Gesetze.md"
+                "file": "_notes/Session X - 2021-04-11.md"
               }
             }
           }
@@ -108,15 +108,15 @@
   },
   "active": "757b946219c3a05f",
   "lastOpenFiles": [
+    "_notes/Session X - 11.04.2021.md",
+    "_notes/Session X - 25.04.2021.md",
+    "_notes/Session x - 22.05.2021.md",
+    "_notes/Untitled.md",
+    "_notes/Quest - Vermisste Tochter finden.md",
     "_notes/Vallakische Gesetze.md",
     "_notes/Arabelle.md",
     "_notes/Dream Pasties.md",
     "_notes/Mürte.md",
-    "_notes/Session X - 25.04.2021.md",
-    "_notes/Vallakies Waisenhaus.md",
-    "_notes/Vallaki.md",
-    "_notes/Wizards of Wine.md",
-    "_notes/Bluto.md",
-    "_notes/Madame Eva.md"
+    "_notes/Vallakies Waisenhaus.md"
   ]
 }
