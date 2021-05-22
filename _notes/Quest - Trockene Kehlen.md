@@ -8,9 +8,9 @@ Der Wein bleibt aus:
 
 **[[Wizards of Wine]]**
 
-**Questgeber:** [[Danika Martikov]] und [[Ervan]]
+**Questgeber:** [[Danika Martikov]] und [[Ervan Martikov]]
 **Beschreibung:** 
-**Belohnung: ** Freie Unterkunft
+**Belohnung:** Freie Unterkunft 
 
 
 
