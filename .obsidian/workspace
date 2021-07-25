@@ -24,8 +24,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Session x - 2021-05-22.md",
-                "mode": "source"
+                "file": "_notes/Tagebuch 2.md",
+                "mode": "preview"
               }
             }
           }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Blue",
+                "query": "Karte",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,14 +119,14 @@
   "active": "034db37d2c2d2eb2",
   "lastOpenFiles": [
     "_notes/Session x - 2021-07-25.md",
+    "_notes/Tagebuch 2.md",
     "_notes/Session x - 2021-05-22.md",
+    "_notes/Narrenhügel.md",
+    "_notes/Sessionlogs.md",
+    "_notes/Tomb of Strahd.md",
     "_notes/Untitled.md",
     "_notes/Davian Martikov.md",
     "_notes/Ervan.md",
-    "_notes/Quest - Trockene Kehlen.md",
-    "_notes/Quest - Tochter aus Weingut befreien.md",
-    "_notes/Quests.md",
-    "_notes/Session X - 2021-04-11.md",
-    "_notes/Session X - 2021-04-25.md"
+    "_notes/Quest - Trockene Kehlen.md"
   ]
 }
